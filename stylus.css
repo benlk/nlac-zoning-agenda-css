@@ -1,0 +1,29 @@
+@-moz-document url-prefix("https://us21.campaign-archive.com/?u=330bc1a667408c7b6f03e46bb&id") {
+	#awesomewrap {
+		display: none;
+	}
+	#archivebody {
+		background-color: transparent !important;
+	}
+	.mceSectionBody,
+	#bodyTable {
+		background-color: transparent !important;
+	}
+	html {
+		border-top: none !important;
+	}
+	
+	#b9,
+	#gutterContainerId-10,
+	#gutterContainerId-100,
+	[data-block-id="114"],
+	[data-block-id="8"] {
+		display: none;
+	}
+	img.mceImage {
+		max-width: 1in !important;
+	}
+	.mceText p {
+		font-size: 20px;
+	}
+}
